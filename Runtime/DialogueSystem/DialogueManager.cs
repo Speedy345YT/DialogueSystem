@@ -17,7 +17,6 @@ namespace DialogueSystem
         private List<GameObject> activeChoices = new List<GameObject>();
 
         private DialogueEventBase currentEvent;
-
         public void ShowChoices(DialogueNode node)
         {
             ClearChoices();

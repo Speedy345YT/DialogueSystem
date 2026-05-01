@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a816cad63512e0f40bf7e5dcd82ecba2, type: 3}
   m_Name: DebugTest
   m_EditorClassIdentifier: DialogueSystem::DialogueSystem.DialogueNode
-  image: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  image: {fileID: 21300000, guid: bd6f03ee08dd09b419b19f8e5c4ed847, type: 3}
   dialogueText: What is up fam
   responses:
   - text: Hi Twin
